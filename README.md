@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://karanvirheer.com/">
-    <img src="https://img.shields.io/badge/Personal Website-grey?style=for-the-badge&logo=react&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=react&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
 
