@@ -27,15 +27,9 @@ I am a computer science student with a passion for frontend and backend developm
 
 ### :seedling: What I'm up to?
 
-* 📖 This semester my classes are focused on:
-  * Start-up technologies
-  * Data Mining
-  * Algorithms
-  * Operating Systems.
 * 📷 Taking my photography game further
 * ☀️ Over the summer I'm looking forward to working on:
   * FFXIV quest tracker mod using the Dalamud API
-  * An application to help track my progress at the gym
   * Eye tracker using arduino or RPi3
   * Something related to photography
   * Getting better at LeetCode and algorithms in general
