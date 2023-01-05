@@ -28,7 +28,7 @@ I am a computer science student with a passion for frontend and backend developm
 ### :seedling: What I'm up to?
 
 * 📷 Taking my photography game further
-* ☀️ Over the summer I'm looking forward to working on:
+* ☀️ Over the winter I'm looking forward to working on:
   * FFXIV quest tracker mod using the Dalamud API
   * Eye tracker using arduino or RPi3
   * Something related to photography
