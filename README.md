@@ -23,14 +23,13 @@
 
 ### 👨‍💼 About Me
 
-I am a computer science student with a passion for frontend and backend development.
+I am a computer science graduate with a passion for frontend and backend development.
 
 ### :seedling: What I'm up to?
 
 * 📷 Taking my photography game further
 * ☀️ Over the winter I'm looking forward to working on:
   * Getting more familiar with C++
-  * Creating an Android/iOS App
   * Getting better at LeetCode and algorithms in general
 ---
 
