@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/karanvirheer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://karanvirheer.com/">
+  <a href="https://www.karanvirheer.com?utm_source=github">
     <img src="https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=react&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
@@ -34,7 +34,4 @@ I am a computer science graduate with a passion for frontend and backend develop
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karanvirheer&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanvirheer&exclude_repo=Pong-Game,Orbo-SourceFiles&theme=dark&hide=ASP)](https://github.com/anuraghazra/github-readme-stats)
