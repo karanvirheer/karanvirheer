@@ -23,15 +23,13 @@
 
 ### 👨‍💼 About Me
 
-I am a computer science graduate with a passion for frontend and backend development.
+I am a computer science graduate with a passion for frontend and backend development. 
 
 ### :seedling: What I'm up to?
 
-* 📷 Taking my photography game further
-* ☀️ Over the winter I'm looking forward to working on:
-  * Getting more familiar with C++
+* Looking for new graduate job positions!
+* ☀️ Over the summer I'm looking forward to working on:
+  * Creating a Netflix Statistics website
+  * Creating a Firefox Highlighter Extension
   * Getting better at LeetCode and algorithms in general
 ---
-
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanvirheer&exclude_repo=Pong-Game,Orbo-SourceFiles&theme=dark&hide=ASP)](https://github.com/anuraghazra/github-readme-stats)
